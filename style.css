@@ -1,0 +1,14 @@
+.EEE {
+    background-color: #fa026e;
+    color: rgb(149, 232, 16);
+
+    
+    
+}       
+
+
+.image_continer{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
